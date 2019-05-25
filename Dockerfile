@@ -9,9 +9,9 @@ LABEL "repository"="https://github.com/peaceiris/actions-pipenv"
 LABEL "homepage"="https://github.com/peaceiris/actions-pipenv"
 LABEL "maintainer"="peaceiris"
 
-ENV PIPENV_VENV_IN_PROJECT=true
-
 RUN pip install --upgrade pip && \
     pip install pipenv
+
+ENV PIPENV_VENV_IN_PROJECT=true
 
 ENTRYPOINT [ "/usr/local/bin/pipenv" ]
