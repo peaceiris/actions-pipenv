@@ -44,6 +44,6 @@ action "test" {
 
 
 
-## Supprt author
+## About the author
 
-<a href="https://www.patreon.com/peaceiris"><img src="./images/patreon.jpg" alt="peaceiris - Patreon" width="150px"></a>
+- [peaceiris's homepage](https://peaceiris.com/)
