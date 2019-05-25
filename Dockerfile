@@ -1,4 +1,4 @@
-FROM python:3.6
+FROM python:3.7
 
 LABEL "com.github.actions.name"="pipenv - Python"
 LABEL "com.github.actions.description"="GitHub Actions for Python project with pipenv"
