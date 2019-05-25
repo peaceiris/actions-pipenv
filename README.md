@@ -14,6 +14,11 @@
 
 ## Getting started
 
+| Branch | Base image |
+|---|---|
+| 3.6 | `python:3.6` |
+| 3.7 | `python:3.7` |
+
 ### Create `main.workflow`
 
 ```hcl
