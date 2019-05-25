@@ -36,6 +36,15 @@ action "test" {
 
 
 
+## Examples
+
+### MkDocs
+
+- [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
+- [main.workflow - peaceiris/mkdocs-material-boilerplate](https://github.com/peaceiris/mkdocs-material-boilerplate/blob/master/.github/main.workflow)
+
+
+
 ## License
 
 [MIT License - peaceiris/actions-pipenv]
